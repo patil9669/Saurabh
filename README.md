@@ -31,5 +31,3 @@ I'm a passionate QA Tester with expertise in ensuring software quality and relia
 - [Email](mailto:saurabhpatil9669@gmail.com) 
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
