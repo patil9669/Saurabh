@@ -28,7 +28,8 @@ I'm a passionate QA Tester with expertise in ensuring software quality and relia
 
 ## Contact Me
 - [LinkedIn]([https://www.linkedin.com/in/saurabh-patil-841326117/])  
-- [Email](saurabhpatil9669@gmail.com)  
+- [Email](saurabhpatil9669@gmail.com)
+- [Email](mailto:saurabhpatil9669@gmail.com) 
 
 ---
 
