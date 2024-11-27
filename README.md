@@ -27,8 +27,7 @@ I'm a passionate QA Tester with expertise in ensuring software quality and relia
 - Getting Started with AWS Machine Learning  
 
 ## Contact Me
-- [LinkedIn]([https://www.linkedin.com/in/saurabh-patil-841326117/])  
-- [Email](saurabhpatil9669@gmail.com)
+- [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/saurabh-patil-841326117/))
 - [Email](mailto:saurabhpatil9669@gmail.com) 
 
 ---
